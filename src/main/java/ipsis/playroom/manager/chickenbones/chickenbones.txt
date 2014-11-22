@@ -1,0 +1,6 @@
+The classes in this directory are *very* slightly refactored versions from ChickenBones NEI.
+
+This is licensed under the MIT license, for which I am very grateful :)
+
+https://github.com/Chicken-Bones/NotEnoughItems
+https://github.com/Chicken-Bones/NotEnoughItems/blob/master/LICENSE.txt
